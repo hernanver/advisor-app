@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![/Users/hernanverzini/Desktop/Trabajos/Challenges/advisor-app/images/Captura de Pantalla 2022-10-18 a la(s) 05.17.13.png](./screenshot.jpg)
+<img width="860" alt="Captura de Pantalla 2022-10-18 a la(s) 05 17 13" src="https://user-images.githubusercontent.com/99434648/196377248-283a672b-e5fe-4a0a-a8c3-996b54b82229.png">
 
 
 
